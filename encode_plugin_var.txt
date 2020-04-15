@@ -1,0 +1,2 @@
+rootfolder="C:\test 01"
+execfiletype=*.sql *.txt *.csv *.btq
